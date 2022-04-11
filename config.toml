@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
+baseURL = "https://yairfran12.github.io/my_launchx_blog_YairFran12/"
 languageCode = "en-us"
-title = "Bitácora de Viaje"
+title = "Bitácora de Viaje de YairFran12"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
